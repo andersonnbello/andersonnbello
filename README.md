@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Anderson Belo 👋
 <div>
 <a href="https://github.com/andersonnbello">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonnbello&show_icons=true&theme=material-palenight">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonnbello&layout=compact&theme=material-palenight">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=andersonnbello&show_icons=true&theme=material-palenight">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonnbello&layout=compact&theme=material-palenight">
 </div>  
   
 <div style="display: inline_block"><br>
